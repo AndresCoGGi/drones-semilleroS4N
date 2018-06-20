@@ -1,0 +1,6 @@
+compile
+testOnly co.com.s4n.semillero.ejercicio.servicios.servicioDroneMock
+testOnly co.com.s4n.semillero.ejercicio.servicios.funcionamientoDrone
+testOnly co.com.s4n.semillero.ejercicio.servicios.servicioDrone
+testOnly co.com.s4n.semillero.ejercicio.servicios.funcionamientoDrone
+exit

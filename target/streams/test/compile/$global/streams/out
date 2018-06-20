@@ -1,0 +1,34 @@
+[0m[[0m[31merror[0m] [0m[0m/home/s4n/domicilios-drones/src/test/java/co/com/s4n/semillero/ejercicio/servicios/funcionamientoDrone.java:72:1: <identifier> expected[0m
+[0m[[0m[31merror[0m] [0m[0m        int tamaño = listaRutas.[0m
+[0m[[0m[31merror[0m] [0m[0m/home/s4n/domicilios-drones/src/test/java/co/com/s4n/semillero/ejercicio/servicios/funcionamientoDrone.java:77:1: illegal start of expression[0m
+[0m[[0m[31merror[0m] [0m[0m    public Drone generarPosicion(Drone dron , String ruta){[0m
+[0m[[0m[31merror[0m] [0m[0m/home/s4n/domicilios-drones/src/test/java/co/com/s4n/semillero/ejercicio/servicios/funcionamientoDrone.java:77:1: ';' expected[0m
+[0m[[0m[31merror[0m] [0m[0m    public Drone generarPosicion(Drone dron , String ruta){[0m
+[0m[[0m[31merror[0m] [0m[0m/home/s4n/domicilios-drones/src/test/java/co/com/s4n/semillero/ejercicio/servicios/funcionamientoDrone.java:77:1: ')' expected[0m
+[0m[[0m[31merror[0m] [0m[0m    public Drone generarPosicion(Drone dron , String ruta){[0m
+[0m[[0m[31merror[0m] [0m[0m/home/s4n/domicilios-drones/src/test/java/co/com/s4n/semillero/ejercicio/servicios/funcionamientoDrone.java:77:1: illegal start of expression[0m
+[0m[[0m[31merror[0m] [0m[0m    public Drone generarPosicion(Drone dron , String ruta){[0m
+[0m[[0m[31merror[0m] [0m[0m/home/s4n/domicilios-drones/src/test/java/co/com/s4n/semillero/ejercicio/servicios/funcionamientoDrone.java:77:1: ';' expected[0m
+[0m[[0m[31merror[0m] [0m[0m    public Drone generarPosicion(Drone dron , String ruta){[0m
+[0m[[0m[31merror[0m] [0m[0m/home/s4n/domicilios-drones/src/test/java/co/com/s4n/semillero/ejercicio/servicios/funcionamientoDrone.java:77:1: not a statement[0m
+[0m[[0m[31merror[0m] [0m[0m    public Drone generarPosicion(Drone dron , String ruta){[0m
+[0m[[0m[31merror[0m] [0m[0m/home/s4n/domicilios-drones/src/test/java/co/com/s4n/semillero/ejercicio/servicios/funcionamientoDrone.java:77:1: ';' expected[0m
+[0m[[0m[31merror[0m] [0m[0m    public Drone generarPosicion(Drone dron , String ruta){[0m
+[0m[[0m[31merror[0m] [0m[0m/home/s4n/domicilios-drones/src/test/java/co/com/s4n/semillero/ejercicio/servicios/funcionamientoDrone.java:101:1: illegal start of expression[0m
+[0m[[0m[31merror[0m] [0m[0m    public List<String> recogerAlmuerzos(List<String> list ,int indice){[0m
+[0m[[0m[31merror[0m] [0m[0m/home/s4n/domicilios-drones/src/test/java/co/com/s4n/semillero/ejercicio/servicios/funcionamientoDrone.java:101:1: ';' expected[0m
+[0m[[0m[31merror[0m] [0m[0m    public List<String> recogerAlmuerzos(List<String> list ,int indice){[0m
+[0m[[0m[31merror[0m] [0m[0m/home/s4n/domicilios-drones/src/test/java/co/com/s4n/semillero/ejercicio/servicios/funcionamientoDrone.java:101:1: <identifier> expected[0m
+[0m[[0m[31merror[0m] [0m[0m    public List<String> recogerAlmuerzos(List<String> list ,int indice){[0m
+[0m[[0m[31merror[0m] [0m[0m/home/s4n/domicilios-drones/src/test/java/co/com/s4n/semillero/ejercicio/servicios/funcionamientoDrone.java:101:1: not a statement[0m
+[0m[[0m[31merror[0m] [0m[0m    public List<String> recogerAlmuerzos(List<String> list ,int indice){[0m
+[0m[[0m[31merror[0m] [0m[0m/home/s4n/domicilios-drones/src/test/java/co/com/s4n/semillero/ejercicio/servicios/funcionamientoDrone.java:101:1: ';' expected[0m
+[0m[[0m[31merror[0m] [0m[0m    public List<String> recogerAlmuerzos(List<String> list ,int indice){[0m
+[0m[[0m[31merror[0m] [0m[0m/home/s4n/domicilios-drones/src/test/java/co/com/s4n/semillero/ejercicio/servicios/funcionamientoDrone.java:113:1: ';' expected[0m
+[0m[[0m[31merror[0m] [0m[0m    public void testFuncionamiento(){[0m
+[0m[[0m[31merror[0m] [0m[0m/home/s4n/domicilios-drones/src/test/java/co/com/s4n/semillero/ejercicio/servicios/funcionamientoDrone.java:128:1: ';' expected[0m
+[0m[[0m[31merror[0m] [0m[0m    public void testFuncionamiento2(){[0m
+[0m[[0m[31merror[0m] [0m[0m/home/s4n/domicilios-drones/src/test/java/co/com/s4n/semillero/ejercicio/servicios/funcionamientoDrone.java:142:1: ';' expected[0m
+[0m[[0m[31merror[0m] [0m[0m    public void testFuncionamiento3(){[0m
+[0m[[0m[31merror[0m] [0m[0m/home/s4n/domicilios-drones/src/test/java/co/com/s4n/semillero/ejercicio/servicios/funcionamientoDrone.java:156:1: reached end of file while parsing[0m
+[0m[[0m[31merror[0m] [0m[0m}[0m
