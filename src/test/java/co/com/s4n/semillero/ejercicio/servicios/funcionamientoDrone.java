@@ -27,6 +27,7 @@ public class funcionamientoDrone {
     static List<Drone> reporteEntregas = new ArrayList<>();
 
     public void obtenerRutas() {
+        Try<String> validacion;
         List<String> listaRutasArchivo = leerArchivo();
 
         io.vavr.collection.List<String> listaRutas = io.vavr.collection.List.ofAll(listaRutasArchivo);
@@ -35,7 +36,7 @@ public class funcionamientoDrone {
 
         //recorrer la lista agrupada
         listaAgrupada.forEach(s -> {
-            //cada elemento es una lista- agrupada de a 3 rutas
+            //cada elemento(s) es una lista- agrupada de a 3 rutas
 
             Drone drone = new Drone(0, 0, Direccion.NORTE);
             //obtener el dron en String
@@ -47,7 +48,13 @@ public class funcionamientoDrone {
             s.fold(inicio, (s1, s2) -> convertirDrone(s1, s2));
 
         });
-        EscribirArchivo(reporteEntregas);
+        validacion = revisarReporte(reporteEntregas);
+        if(validacion.isSuccess()){
+            EscribirArchivo(reporteEntregas);
+        }else{
+            System.out.println(validacion);
+        }
+
     }
 
     public static Iterator<io.vavr.collection.List<String>> dividirLista(io.vavr.collection.List<String> listGeneral, int tamano){
@@ -103,6 +110,19 @@ public class funcionamientoDrone {
         reporteEntregas.add(drone);
 
         return drone;
+    }
+
+    public Try<String> revisarReporte(List<Drone> reporte){
+        Try<String> error = Try.of(()->"ok");
+        for (int i = 0;i<reporte.size();i++){
+            if (reporte.get(i).getX()<-10 || reporte.get(i).getX()>10){
+                error = Try.failure(new Exception("FUERA DE LOS LIMITES DEL BARRIO"));
+            }
+            if (reporte.get(i).getY()<-10 || reporte.get(i).getY()>10){
+                error = Try.failure(new Exception("FUERA DE LOS LIMITES DEL BARRIO"));
+            }
+        }
+        return error;
     }
 
     @Test

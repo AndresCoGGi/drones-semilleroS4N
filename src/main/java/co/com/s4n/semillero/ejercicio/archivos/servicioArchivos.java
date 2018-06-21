@@ -40,7 +40,7 @@ public class servicioArchivos {
 
             FileWriter fileWriter = new FileWriter(fileName);
             PrintWriter printWriter = new PrintWriter(fileWriter);
-
+            printWriter.println(" == Reporte de entregas ==");
             for (int i=0; i<resporte.size(); i++){
 
                 printWriter.println("("+resporte.get(i).getX()+", "+resporte.get(i).getY()+") " +
