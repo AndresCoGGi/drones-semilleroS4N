@@ -2,60 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eeb0cf70-c828-4db6-bec7-fb9bfabcfbef" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/s4n/semillero/ejercicio/servicios/ArchivoSuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/root.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/root.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buid.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/buid.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$969f1b6414def7b84a70$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$969f1b6414def7b84a70.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$969f1b6414def7b84a70.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/s4n/semillero/ejercicio/archivos/servicioArchivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/s4n/semillero/ejercicio/archivos/servicioArchivos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/s4n/semillero/ejercicio/dominio/entidades/Drone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/s4n/semillero/ejercicio/dominio/entidades/Drone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resource/int" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resource/int" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resource/out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resource/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/s4n/semillero/ejercicio/servicios/DroneSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/s4n/semillero/ejercicio/servicios/DroneSuite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/co/com/s4n/semillero/ejercicio/servicios/funcionamientoDrone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/s4n/semillero/ejercicio/servicios/funcionamientoDrone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/s4n/semillero/ejercicio/servicios/servicioArchivo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/s4n/semillero/ejercicio/servicios/servicioDrone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/s4n/semillero/ejercicio/servicios/DroneSuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/co/com/s4n/semillero/ejercicio/archivos/servicioArchivos.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/co/com/s4n/semillero/ejercicio/archivos/servicioArchivos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/co/com/s4n/semillero/ejercicio/dominio/entidades/Dron.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/co/com/s4n/semillero/ejercicio/dominio/entidades/Drone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/co/com/s4n/semillero/ejercicio/dominio/entidades/Drone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/co/com/s4n/semillero/ejercicio/dominio/servicios/servicioDron.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/co/com/s4n/semillero/ejercicio/dominio/servicios/servicioDron.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/com.example/s4n-domicilios-drones/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/com.example/s4n-domicilios-drones/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/com.example/s4n-domicilios-drones/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/com.example/s4n-domicilios-drones/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.example-s4n-domicilios-drones-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.example-s4n-domicilios-drones-compile-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.example-s4n-domicilios-drones-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.example-s4n-domicilios-drones-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.example-s4n-domicilios-drones-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.example-s4n-domicilios-drones-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.example-s4n-domicilios-drones-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.example-s4n-domicilios-drones-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.example-s4n-domicilios-drones-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.example-s4n-domicilios-drones-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.example-s4n-domicilios-drones-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.example-s4n-domicilios-drones-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.example-s4n-domicilios-drones-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.example-s4n-domicilios-drones-runtime-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.example-s4n-domicilios-drones-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.example-s4n-domicilios-drones-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.example-s4n-domicilios-drones-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.example-s4n-domicilios-drones-scala-tool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.example-s4n-domicilios-drones-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.example-s4n-domicilios-drones-test-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.example-s4n-domicilios-drones-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.example-s4n-domicilios-drones-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache/input_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache/output_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/$global/$global/definedTestNames/data" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/$global/$global/definedTestNames/data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/compileIncSetup/$global/streams/inc_compile.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/compileIncSetup/$global/streams/inc_compile.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/compileIncremental/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/definedTests/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/definedTests/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/fullClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/test/$global/streams/succeeded_tests" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/test/$global/streams/succeeded_tests" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/testOnly/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/testOnly/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/testOnly/isModule=false name=co.com.s4n.semillero.ejercicio.servicios.funcionamientoDrone/test/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/testOnly/isModule=false name=co.com.s4n.semillero.ejercicio.servicios.funcionamientoDrone/test/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/co/com/s4n/semillero/ejercicio/servicios/funcionamientoDrone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/co/com/s4n/semillero/ejercicio/servicios/funcionamientoDrone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/co/com/s4n/semillero/ejercicio/servicios/servicioArchivo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/co/com/s4n/semillero/ejercicio/servicios/servicioDrone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/co/com/s4n/semillero/ejercicio/testPrueba.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-reports/co.com.s4n.semillero.ejercicio.servicios.funcionamientoDrone.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-reports/co.com.s4n.semillero.ejercicio.servicios.funcionamientoDrone.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -86,8 +36,8 @@
       <file leaf-file-name="DroneSuite.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/co/com/s4n/semillero/ejercicio/servicios/DroneSuite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="127">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,11 +45,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="funcionamientoDrone.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="funcionamientoDrone.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/co/com/s4n/semillero/ejercicio/servicios/funcionamientoDrone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-716">
-              <caret line="50" column="14" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+            <state relative-caret-position="93">
+              <caret line="127" lean-forward="true" selection-start-line="127" selection-end-line="127" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -110,8 +60,8 @@
       <file leaf-file-name="out" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resource/out">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -138,7 +88,7 @@
       <file leaf-file-name="servicioDron.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/co/com/s4n/semillero/ejercicio/dominio/servicios/servicioDron.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-391">
+            <state relative-caret-position="104">
               <caret line="9" column="36" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -159,11 +109,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArchivoSuite.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ArchivoSuite.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/co/com/s4n/semillero/ejercicio/servicios/ArchivoSuite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="32" />
+            <state relative-caret-position="209">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -175,7 +125,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/resource/int">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -206,11 +156,12 @@
         <option value="$PROJECT_DIR$/src/test/java/co/com/s4n/semillero/ejercicio/servicios/servicioDrone.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/s4n/semillero/ejercicio/dominio/entidades/Drone.java" />
         <option value="$PROJECT_DIR$/buid.sbt" />
-        <option value="$PROJECT_DIR$/src/test/java/co/com/s4n/semillero/ejercicio/servicios/funcionamientoDrone.java" />
         <option value="$PROJECT_DIR$/src/test/java/co/com/s4n/semillero/ejercicio/servicios/servicioArchivo.java" />
-        <option value="$PROJECT_DIR$/src/main/resource/int" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/s4n/semillero/ejercicio/archivos/servicioArchivos.java" />
         <option value="$PROJECT_DIR$/src/test/java/co/com/s4n/semillero/ejercicio/servicios/ArchivoSuite.java" />
+        <option value="$PROJECT_DIR$/src/test/java/co/com/s4n/semillero/ejercicio/servicios/DroneSuite.java" />
+        <option value="$PROJECT_DIR$/src/main/resource/int" />
+        <option value="$PROJECT_DIR$/src/test/java/co/com/s4n/semillero/ejercicio/servicios/funcionamientoDrone.java" />
       </list>
     </option>
   </component>
@@ -267,26 +218,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ejercicio" type="462c0819:PsiDirectoryNode" />
-              <item name="archivos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="domicilios-drones_8921" type="b2602c69:ProjectViewProjectNode" />
-              <item name="domicilios-drones" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ejercicio" type="462c0819:PsiDirectoryNode" />
               <item name="dominio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="domicilios-drones_8921" type="b2602c69:ProjectViewProjectNode" />
-              <item name="domicilios-drones" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ejercicio" type="462c0819:PsiDirectoryNode" />
-              <item name="dominio" type="462c0819:PsiDirectoryNode" />
-              <item name="entidades" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="domicilios-drones_8921" type="b2602c69:ProjectViewProjectNode" />
@@ -350,7 +282,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ArchivoSuite.testEscribirArchivo">
+  <component name="RunManager" selected="JUnit.funcionamientoDrone.testFuncionamiento">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -416,6 +348,29 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="funcionamientoDrone.testFuncionamiento2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="root" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.com.s4n.semillero.ejercicio.servicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="co.com.s4n.semillero.ejercicio.servicios" />
+      <option name="MAIN_CLASS_NAME" value="co.com.s4n.semillero.ejercicio.servicios.funcionamientoDrone" />
+      <option name="METHOD_NAME" value="testFuncionamiento2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -441,11 +396,13 @@
     <list>
       <item itemvalue="JUnit.funcionamientoDrone.testFuncionamiento" />
       <item itemvalue="JUnit.ArchivoSuite.testEscribirArchivo" />
+      <item itemvalue="JUnit.funcionamientoDrone.testFuncionamiento2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ArchivoSuite.testEscribirArchivo" />
         <item itemvalue="JUnit.funcionamientoDrone.testFuncionamiento" />
+        <item itemvalue="JUnit.funcionamientoDrone.testFuncionamiento2" />
+        <item itemvalue="JUnit.ArchivoSuite.testEscribirArchivo" />
       </list>
     </recent_temporary>
   </component>
@@ -501,21 +458,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="funcionamientoDrone_testFuncionamiento - 2018.06.21 at 08h 20m 36s.xml">
-      <configuration name="funcionamientoDrone.testFuncionamiento" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="funcionamientoDrone_testFuncionamiento - 2018.06.21 at 10h 19m 15s.xml">
-      <configuration name="funcionamientoDrone.testFuncionamiento" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="funcionamientoDrone_testFuncionamiento - 2018.06.21 at 10h 20m 27s.xml">
-      <configuration name="funcionamientoDrone.testFuncionamiento" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="funcionamientoDrone_testFuncionamiento - 2018.06.21 at 10h 32m 55s.xml">
-      <configuration name="funcionamientoDrone.testFuncionamiento" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="funcionamientoDrone_testFuncionamiento - 2018.06.21 at 10h 33m 14s.xml">
-      <configuration name="funcionamientoDrone.testFuncionamiento" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="funcionamientoDrone_testFuncionamiento - 2018.06.21 at 10h 33m 53s.xml">
       <configuration name="funcionamientoDrone.testFuncionamiento" configurationId="JUnit" />
     </history-entry>
@@ -531,6 +473,21 @@
     <history-entry file="ArchivoSuite_testEscribirArchivo - 2018.06.21 at 10h 37m 09s.xml">
       <configuration name="ArchivoSuite.testEscribirArchivo" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="funcionamientoDrone_testFuncionamiento - 2018.06.21 at 11h 07m 50s.xml">
+      <configuration name="funcionamientoDrone.testFuncionamiento" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="funcionamientoDrone_testFuncionamiento2 - 2018.06.21 at 11h 08m 17s.xml">
+      <configuration name="funcionamientoDrone.testFuncionamiento2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="funcionamientoDrone_testFuncionamiento2 - 2018.06.21 at 11h 08m 36s.xml">
+      <configuration name="funcionamientoDrone.testFuncionamiento2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="funcionamientoDrone_testFuncionamiento - 2018.06.21 at 11h 16m 57s.xml">
+      <configuration name="funcionamientoDrone.testFuncionamiento" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="funcionamientoDrone_testFuncionamiento - 2018.06.21 at 11h 17m 19s.xml">
+      <configuration name="funcionamientoDrone.testFuncionamiento" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -545,12 +502,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295082" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24754098" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3295082" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.27704918" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32083002" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2482043" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -684,16 +641,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/s4n/semillero/ejercicio/dominio/servicios/servicioDron.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-391">
-          <caret line="9" column="36" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/co/com/s4n/semillero/ejercicio/dominio/entidades/Drone.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -711,23 +658,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/co/com/s4n/semillero/ejercicio/servicios/DroneSuite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resource/int">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/co/com/s4n/semillero/ejercicio/archivos/servicioArchivos.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -738,27 +668,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/co/com/s4n/semillero/ejercicio/servicios/funcionamientoDrone.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/co/com/s4n/semillero/ejercicio/servicios/ArchivoSuite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-716">
-          <caret line="50" column="14" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+        <state relative-caret-position="209">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resource/out">
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/s4n/semillero/ejercicio/dominio/servicios/servicioDron.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="104">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/co/com/s4n/semillero/ejercicio/servicios/ArchivoSuite.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resource/int">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="32" />
+        <state relative-caret-position="105">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resource/out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/co/com/s4n/semillero/ejercicio/servicios/DroneSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/co/com/s4n/semillero/ejercicio/servicios/funcionamientoDrone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="127" lean-forward="true" selection-start-line="127" selection-end-line="127" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

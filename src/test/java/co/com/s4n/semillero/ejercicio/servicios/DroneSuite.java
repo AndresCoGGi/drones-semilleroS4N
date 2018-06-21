@@ -4,12 +4,19 @@ import co.com.s4n.semillero.ejercicio.dominio.entidades.Drone;
 import co.com.s4n.semillero.ejercicio.dominio.servicios.servicioDron;
 import co.com.s4n.semillero.ejercicio.dominio.valoresObjeto.Direccion;
 import org.junit.Test;
+import org.junit.runner.RunWith;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
+
+/*@RunWith(PowerMockRunner.class)
+@PrepareForTest(fullyQualifiedNames = "co.com.s4n.tain.java.servicioDOminio")
+
+@Mock
+ServicioDominioc servicio*/
 
 public class DroneSuite {
 

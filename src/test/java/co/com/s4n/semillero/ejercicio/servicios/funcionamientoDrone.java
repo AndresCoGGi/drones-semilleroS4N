@@ -6,6 +6,7 @@ import io.vavr.collection.Iterator;
 import io.vavr.concurrent.Future;
 import io.vavr.control.Try;
 import org.junit.Test;
+import org.junit.runner.RunWith;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -24,9 +25,6 @@ public class funcionamientoDrone {
 
 
     static List<Drone> reporteEntregas = new ArrayList<>();
-    List<Drone> posicionFinal = new ArrayList<>();
-    int contador = 0;
-
 
     public void obtenerRutas() {
         List<String> listaRutasArchivo = leerArchivo();
@@ -35,30 +33,31 @@ public class funcionamientoDrone {
 
         Iterator<io.vavr.collection.List<String>> listaAgrupada = dividirLista(listaRutas,3);
 
+        //recorrer la lista agrupada
         listaAgrupada.forEach(s -> {
+            //cada elemento es una lista- agrupada de a 3 rutas
 
             Drone drone = new Drone(0, 0, Direccion.NORTE);
             //obtener el dron en String
             String inicio = drone.toString();
 
-            //Fold - > s1:posicion:que parte desde el inicio , s2:ruta(elemento de la listaRutas)
-            String fold = s.fold(inicio, (s1, s2) -> convertir(s1, s2));
-            String[] elementos = fold.split("\\,");
-            Drone droneNuevo = new Drone(Integer.parseInt(elementos[0]), Integer.parseInt(elementos[1]), cambiarDireccion(elementos[2]));
-            posicionFinal.add(droneNuevo);
+            //Fold - > s1:posicion:que parte desde el inicio , s2:ruta(cada elemento de la listaAgrupada)
+
+            //fold acumula las posiciones del drone
+            s.fold(inicio, (s1, s2) -> convertirDrone(s1, s2));
 
         });
         EscribirArchivo(reporteEntregas);
-
     }
 
     public static Iterator<io.vavr.collection.List<String>> dividirLista(io.vavr.collection.List<String> listGeneral, int tamano){
         return listGeneral.grouped(tamano);
     }
 
-    public static String convertir(String posicionActual, String ruta) {
+    public static String convertirDrone(String posicionActual, String ruta) {
         String[] elementos = posicionActual.split("\\,");
         Drone drone = new Drone(Integer.parseInt(elementos[0]), Integer.parseInt(elementos[1]), cambiarDireccion(elementos[2]));
+        //generar la nueva posicion del drone
         Drone droneNuevo = generarPosicion(drone, ruta);
         return droneNuevo.toString();
     }
@@ -108,8 +107,6 @@ public class funcionamientoDrone {
 
     @Test
     public void testFuncionamiento() {
-        List<Drone> resultados = new ArrayList<>();
-
         Drone drone;
         String esperado = "(0,0) OESTE";
 
@@ -121,6 +118,24 @@ public class funcionamientoDrone {
         }
 
         drone = reporteEntregas.get(2);
+
+        String actual = "("+drone.getX()+","+drone.getY()+") "+drone.getDireccion();
+        assertEquals(esperado,actual);
+    }
+
+    @Test
+    public void testFuncionamiento2() {
+
+        Drone drone;
+        String esperado = "(4,0) ESTE";
+
+        obtenerRutas();
+
+        for (int i = 0; i < reporteEntregas.size(); i++) {
+
+            System.out.println(reporteEntregas.get(i));
+        }
+        drone = reporteEntregas.get(6);
 
         String actual = "("+drone.getX()+","+drone.getY()+") "+drone.getDireccion();
         assertEquals(esperado,actual);
