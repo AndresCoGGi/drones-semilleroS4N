@@ -105,10 +105,11 @@ public class funcionamientoDrone {
                 drone = girarIzquierda(drone);
             } else if (letra.equals("D")) {
                 drone = girarDerecha(drone);
+            } else {
+                drone = new Drone(0,0,Direccion.NORTE);
             }
         }
         reporteEntregas.add(drone);
-
         return drone;
     }
 
