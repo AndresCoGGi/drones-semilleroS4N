@@ -4,3 +4,8 @@ testOnly co.com.s4n.semillero.ejercicio.servicios.funcionamientoDrone
 testOnly co.com.s4n.semillero.ejercicio.servicios.servicioDrone
 testOnly co.com.s4n.semillero.ejercicio.servicios.funcionamientoDrone
 exit
+compile
+testOnly co.com.s4n.semillero.ejercicio.servicios.funcionamientoDrone
+testOnly co.com.s4n.semillero.ejercicio.servicios.servicioArchivo
+testOnly co.com.s4n.semillero.ejercicio.servicios.funcionamientoDrone
+exit

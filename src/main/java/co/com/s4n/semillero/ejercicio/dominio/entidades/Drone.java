@@ -25,4 +25,8 @@ public class Drone {
     public Direccion getDireccion() {
         return direccion;
     }
+
+    public String toString() {
+        return this.x+","+this.y+","+this.direccion;
+    }
 }

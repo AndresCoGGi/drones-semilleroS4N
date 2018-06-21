@@ -15,16 +15,16 @@
 [0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(co.com.s4n.semillero.ejercicio.servicios.funcionamientoDrone)[0m
 [0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(/home/s4n/domicilios-drones/src/test/java/co/com/s4n/semillero/ejercicio/servicios/funcionamientoDrone.java)[0m
 [0m[[0m[0minfo[0m] [0m[0mCompiling 1 Java source to /home/s4n/domicilios-drones/target/test-classes ...[0m
-[0m[[0m[0mdebug[0m] [0m[0mAttempting to call com.sun.tools.javac.api.JavacTool@4855e84a directly...[0m
-[0m[[0m[0mdebug[0m] [0m[0mJava compilation took 0.05008851 s[0m
-[0m[[0m[0mdebug[0m] [0m[0mJava analysis took 0.011322177 s[0m
-[0m[[0m[0mdebug[0m] [0m[0mJava compilation + analysis took 0.062412488 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mAttempting to call com.sun.tools.javac.api.JavacTool@373e4406 directly...[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation took 0.045373971 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava analysis took 0.015577608 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation + analysis took 0.061668049 s[0m
 [0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
 [0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from co.com.s4n.semillero.ejercicio.servicios.funcionamientoDrone...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(co.com.s4n.semillero.ejercicio.servicios.funcionamientoDrone)[0m
 [0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(co.com.s4n.semillero.ejercicio.servicios.funcionamientoDrone)[0m
-[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(co.com.s4n.semillero.ejercicio.servicios.funcionamientoDrone,ModifiedNames(changes = UsedName(testFuncionamiento3,[Default]), UsedName(testFuncionamiento2,[Default]))) invalidates 1 classes due to The co.com.s4n.semillero.ejercicio.servicios.funcionamientoDrone has the following regular definitions changed:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	UsedName(testFuncionamiento3,[Default]), UsedName(testFuncionamiento2,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(co.com.s4n.semillero.ejercicio.servicios.funcionamientoDrone,ModifiedNames(changes = UsedName(reporteEntregas,[Default]), UsedName(posiciones,[Default]))) invalidates 1 classes due to The co.com.s4n.semillero.ejercicio.servicios.funcionamientoDrone has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(reporteEntregas,[Default]), UsedName(posiciones,[Default]).[0m
 [0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(co.com.s4n.semillero.ejercicio.servicios.funcionamientoDrone)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	> [0m
 [0m[[0m[0mdebug[0m] [0m[0m	> [0m

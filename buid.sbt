@@ -13,13 +13,12 @@ lazy val root = (project in file(".")).
     )),
     name := "s4n-domicilios-drones",
     libraryDependencies ++= Seq(
-      libraryDependencies ++= Seq(
         "io.vavr" % "vavr" % "0.9.2",
         "junit" % "junit" % "4.12" % "test",
         "com.novocode" % "junit-interface" % "0.11" % "test",
         "org.mockito" % "mockito-core" % "2.8.9" % "test",
         "org.powermock" % "powermock-api-mockito" % "1.7.4" % "test"
-      )
+
 
 
     )
