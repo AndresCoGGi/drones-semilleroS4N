@@ -15,10 +15,10 @@
 [0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(/home/s4n/domicilios-drones/src/main/java/co/com/s4n/semillero/ejercicio/archivos/servicioArchivos.java)[0m
 [0m[[0m[0minfo[0m] [0m[0mCompiling 1 Java source to /home/s4n/domicilios-drones/target/classes ...[0m
-[0m[[0m[0mdebug[0m] [0m[0mAttempting to call com.sun.tools.javac.api.JavacTool@373e4406 directly...[0m
-[0m[[0m[0mdebug[0m] [0m[0mJava compilation took 0.036964405 s[0m
-[0m[[0m[0mdebug[0m] [0m[0mJava analysis took 5.85482E-4 s[0m
-[0m[[0m[0mdebug[0m] [0m[0mJava compilation + analysis took 0.038206679 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mAttempting to call com.sun.tools.javac.api.JavacTool@3518d936 directly...[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation took 0.456747199 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava analysis took 0.019334405 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation + analysis took 0.480586004 s[0m
 [0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
 [0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
