@@ -1,0 +1,57 @@
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating /home/s4n/domicilios-drones/target/classes/co/com/s4n/semillero/ejercicio/archivos/servicioArchivos.class: stamp changed from lastModified(1529591611516) to lastModified(1529611184140)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set(/home/s4n/domicilios-drones/src/test/java/co/com/s4n/semillero/ejercicio/servicios/servicioArchivo.java, /home/s4n/domicilios-drones/src/test/java/co/com/s4n/semillero/ejercicio/servicios/servicioDrone.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set(/home/s4n/domicilios-drones/src/test/java/co/com/s4n/semillero/ejercicio/servicios/ArchivoSuite.java, /home/s4n/domicilios-drones/src/test/java/co/com/s4n/semillero/ejercicio/servicios/DroneSuite.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(/home/s4n/domicilios-drones/src/test/java/co/com/s4n/semillero/ejercicio/servicios/funcionamientoDrone.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set(/home/s4n/domicilios-drones/target/test-classes/co/com/s4n/semillero/ejercicio/servicios/servicioArchivo.class, /home/s4n/domicilios-drones/target/test-classes/co/com/s4n/semillero/ejercicio/servicios/servicioDrone.class, /home/s4n/domicilios-drones/target/test-classes/co/com/s4n/semillero/ejercicio/servicios/funcionamientoDrone.class)[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set(/home/s4n/domicilios-drones/target/classes/co/com/s4n/semillero/ejercicio/archivos/servicioArchivos.class)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(co.com.s4n.semillero.ejercicio.servicios.servicioArchivo, co.com.s4n.semillero.ejercicio.servicios.servicioDrone, co.com.s4n.semillero.ejercicio.servicios.funcionamientoDrone)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set(/home/s4n/domicilios-drones/src/test/java/co/com/s4n/semillero/ejercicio/servicios/servicioArchivo.java, /home/s4n/domicilios-drones/src/test/java/co/com/s4n/semillero/ejercicio/servicios/servicioDrone.java, /home/s4n/domicilios-drones/src/test/java/co/com/s4n/semillero/ejercicio/servicios/funcionamientoDrone.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set(/home/s4n/domicilios-drones/src/test/java/co/com/s4n/semillero/ejercicio/servicios/servicioArchivo.java, /home/s4n/domicilios-drones/src/test/java/co/com/s4n/semillero/ejercicio/servicios/funcionamientoDrone.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(co.com.s4n.semillero.ejercicio.servicios.servicioArchivo, co.com.s4n.semillero.ejercicio.servicios.servicioDrone, co.com.s4n.semillero.ejercicio.servicios.funcionamientoDrone)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(/home/s4n/domicilios-drones/src/test/java/co/com/s4n/semillero/ejercicio/servicios/servicioDrone.java, /home/s4n/domicilios-drones/src/test/java/co/com/s4n/semillero/ejercicio/servicios/servicioArchivo.java, /home/s4n/domicilios-drones/src/test/java/co/com/s4n/semillero/ejercicio/servicios/ArchivoSuite.java, /home/s4n/domicilios-drones/src/test/java/co/com/s4n/semillero/ejercicio/servicios/funcionamientoDrone.java, /home/s4n/domicilios-drones/src/test/java/co/com/s4n/semillero/ejercicio/servicios/DroneSuite.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 3 sources: invalidated sources (5) exceeded 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 3 Java sources to /home/s4n/domicilios-drones/target/test-classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mAttempting to call com.sun.tools.javac.api.JavacTool@3518d936 directly...[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation took 0.178146828 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava analysis took 0.068970575 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation + analysis took 0.248267927 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from co.com.s4n.semillero.ejercicio.servicios.servicioArchivo...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(co.com.s4n.semillero.ejercicio.servicios.servicioArchivo)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(co.com.s4n.semillero.ejercicio.servicios.servicioArchivo)[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(co.com.s4n.semillero.ejercicio.servicios.servicioArchivo,ModifiedNames(changes = UsedName(testLeerArchivo,[Default]), UsedName(servicioArchivo,[Default]), UsedName(notify,[Default]), UsedName(getClass,[Default]), UsedName(toString,[Default]), UsedName(equals,[Default]), UsedName(co;com;s4n;semillero;ejercicio;servicios;servicioArchivo;init;,[Default]), UsedName(notifyAll,[Default]), UsedName(wait,[Default]), UsedName(hashCode,[Default]))) invalidates 1 classes due to The co.com.s4n.semillero.ejercicio.servicios.servicioArchivo has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(testLeerArchivo,[Default]), UsedName(servicioArchivo,[Default]), UsedName(notify,[Default]), UsedName(getClass,[Default]), UsedName(toString,[Default]), UsedName(equals,[Default]), UsedName(co;com;s4n;semillero;ejercicio;servicios;servicioArchivo;init;,[Default]), UsedName(notifyAll,[Default]), UsedName(wait,[Default]), UsedName(hashCode,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(co.com.s4n.semillero.ejercicio.servicios.servicioArchivo)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from co.com.s4n.semillero.ejercicio.servicios.servicioDrone...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(co.com.s4n.semillero.ejercicio.servicios.servicioDrone)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(co.com.s4n.semillero.ejercicio.servicios.servicioDrone)[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(co.com.s4n.semillero.ejercicio.servicios.servicioDrone,ModifiedNames(changes = UsedName(testHaciaDelante,[Default]), UsedName(co;com;s4n;semillero;ejercicio;servicios;servicioDrone;init;,[Default]), UsedName(notify,[Default]), UsedName(testgirarDerecha,[Default]), UsedName(getClass,[Default]), UsedName(servicioDrone,[Default]), UsedName(toString,[Default]), UsedName(testHaciaDelante3,[Default]), UsedName(testgirarIzquierda,[Default]), UsedName(equals,[Default]), UsedName(notifyAll,[Default]), UsedName(wait,[Default]), UsedName(testHaciaDelante2,[Default]), UsedName(hashCode,[Default]))) invalidates 1 classes due to The co.com.s4n.semillero.ejercicio.servicios.servicioDrone has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(testHaciaDelante,[Default]), UsedName(co;com;s4n;semillero;ejercicio;servicios;servicioDrone;init;,[Default]), UsedName(notify,[Default]), UsedName(testgirarDerecha,[Default]), UsedName(getClass,[Default]), UsedName(servicioDrone,[Default]), UsedName(toString,[Default]), UsedName(testHaciaDelante3,[Default]), UsedName(testgirarIzquierda,[Default]), UsedName(equals,[Default]), UsedName(notifyAll,[Default]), UsedName(wait,[Default]), UsedName(testHaciaDelante2,[Default]), UsedName(hashCode,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(co.com.s4n.semillero.ejercicio.servicios.servicioDrone)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from co.com.s4n.semillero.ejercicio.servicios.funcionamientoDrone...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(co.com.s4n.semillero.ejercicio.servicios.funcionamientoDrone)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(co.com.s4n.semillero.ejercicio.servicios.funcionamientoDrone)[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(co.com.s4n.semillero.ejercicio.servicios.funcionamientoDrone,ModifiedNames(changes = UsedName(convertirDrone,[Default]), UsedName(convertir,[Default]), UsedName(revisarReporte,[Default]), UsedName(testFuncionamiento2,[Default]), UsedName(posicionFinal,[Default]), UsedName(contador,[Default]))) invalidates 1 classes due to The co.com.s4n.semillero.ejercicio.servicios.funcionamientoDrone has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(convertirDrone,[Default]), UsedName(convertir,[Default]), UsedName(revisarReporte,[Default]), UsedName(testFuncionamiento2,[Default]), UsedName(posicionFinal,[Default]), UsedName(contador,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(co.com.s4n.semillero.ejercicio.servicios.funcionamientoDrone)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll newly invalidated classes after taking into account (previously) recompiled classes:Set()[0m
